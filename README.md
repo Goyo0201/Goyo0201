@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Goyeneche</h1>
 
 &emsp;
-<h3 align="left">👋 ¡Hola! Soy un estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me gusta trabajar en el diseño y desarrollo de software, bases de datos y proyectos orientados a mejorar la eficiencia operativa.
+<h3 align="left">👋 ¡Hola! Soy Ingeniero de Sistemas apasionado por la tecnología y el desarrollo de soluciones innovadoras. Me gusta trabajar en el diseño y desarrollo de software, bases de datos y proyectos orientados a mejorar la eficiencia operativa.
 
 &emsp;
 
